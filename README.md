@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @joseeph008
-- 👀 I’m interested in Web Dev.
-- 🌱 I’m currently learning Fullstack Js
+- 👀 I’m interested in Python.
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on webdev 
 - 📫 How to reach me ...
 
